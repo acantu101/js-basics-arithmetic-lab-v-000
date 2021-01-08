@@ -7,3 +7,6 @@ multiply;
 
 let random = Math.floor(Math.random() * 10) + 1
 random ;
+
+let mod = Number.parseInt('100', 2)
+mod;
