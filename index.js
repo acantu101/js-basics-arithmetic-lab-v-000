@@ -10,3 +10,6 @@ random ;
 
 let mod = Number.parseInt('100', 2)
 mod;
+
+let max = Math.max(19,20)
+max;
